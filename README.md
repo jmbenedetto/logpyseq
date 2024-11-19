@@ -1,3 +1,2 @@
-# PySeq
-
-This is a repository for PySeq.
+# pyseq
+Pythonic wrapper for LogSeq APIs
