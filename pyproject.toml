@@ -1,5 +1,5 @@
 [project]
-name = "pyseq"
+name = "logpyseq"
 version = "0.1.0"
 description = "Pythonic wrapper for LogSeq API"
 readme = "README.md"
